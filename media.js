@@ -26,7 +26,7 @@ wavesurfer.init({
 
 
 //загружаем нужную песню
-wavesurfer.load("dday.mp3");
+wavesurfer.load("денди.mp3");
 
 //play and pause a player
 playPause.addEventListener("click", function (e) {
